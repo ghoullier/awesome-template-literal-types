@@ -6,6 +6,8 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 - [I need to learn about TypeScript Template Literal Types](https://dev.to/phenomnominal/i-need-to-learn-about-typescript-template-literal-types-51po)
 
+## Use Cases
+
 ### dot notation string type-safe
 
 [Tweet](https://twitter.com/diegohaz/status/1309489079378219009)
