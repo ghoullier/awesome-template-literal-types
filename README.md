@@ -91,6 +91,16 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [Github](https://github.com/ricklove/rick-love-master/tree/master/code/typescript-type-system-adventure)
 
+
+### Printf/Log
+
+Similar to Idris' type-safe dependently-typed printf, but in TypeScript, working with console.log.
+
+[Github](https://gist.github.com/joaomilho/d31a4557f1b850ec7e65730a4316c80b)
+
+[Example](https://www.typescriptlang.org/play?ts=4.1.0-beta#code/C4TwDgpgBAYglhANgEwCrggHnk5A+KAXigCgooByAZwqggA9gIA7ZK2BFKAfiiuABOcZgHMoALjKUAZrQZNW7HF17MArgFsARhAESpFOHMYs2HXDyjrtu-eQrJjCs8uSXrOvZPsB7J6aVON14ACVQAWQAZAFFECA0WYDtKAHl-RXMVKB8tACsIAGMk70oC9Jcgy34hUWTmCAA3XQBuEhJQSChoxgEAQyLXKkxUAkIpclQ6EwyAAwASAG9haVsAfQBfAFJF5dtXdZ3mFb0AJXWZywBtV3RIbCC8ABooADo37sF+4EHME7wAXWSEymznY8yWRzWW0Ox0yyHOVxuGHuuABQKgl3+rRI0jUzCKcB8zCgiB8ImwGiS8gCfEEwhEeAAFFJpJTxLBKY8pG8Xr0BCIqOyPn0BkEhjBKXgSABKdkNHxwNwLcZQApEqg+OIvUkiRms4DPHl8gXS1rrbE6xkAIgAysA1NJpOzNuxNtIoJsUlbnhQQkhSRRngBGABMAGZngtsgBrdmCNTQdamkhAA)
+
+
 ### Bitwise Arithmetic
 
 <img src="./images/bitwise-arithmetic.png" alt="Bitwise Arithmetic">
