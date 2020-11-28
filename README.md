@@ -47,6 +47,12 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 [GitHub](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use)
 
 
+### JSON Serializer
+
+[Tweet](https://twitter.com/RReverser/status/1332088256826142722)
+
+[Gist](https://gist.github.com/RReverser/ad3bef657aa32a15ca9e55386feb8fb6)
+
 ### GraphQL Typed AST
 
 [Tweet](https://twitter.com/dotansimha/status/1302294238139473923)
