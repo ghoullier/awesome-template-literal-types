@@ -4,7 +4,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 ## Handbook
 
-- [https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html](Template Literal Types)
+- [Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
 
 ## Articles
 
