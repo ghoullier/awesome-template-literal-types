@@ -2,6 +2,10 @@
 
 Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-beta/#template-literal-types) examples.
 
+## Handbook
+
+- [https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html](Template Literal Types)
+
 ## Articles
 
 - [I need to learn about TypeScript Template Literal Types](https://dev.to/phenomnominal/i-need-to-learn-about-typescript-template-literal-types-51po)
