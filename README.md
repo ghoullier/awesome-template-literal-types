@@ -1,4 +1,4 @@
-# Awesome Template Literal Types
+# TypeScript Awesome Template Literal Types
 
 Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-beta/#template-literal-types) examples.
 
