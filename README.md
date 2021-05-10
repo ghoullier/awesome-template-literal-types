@@ -143,10 +143,20 @@ Split a string value with a given sepatator
 
 ### Privatized
 
-Automaticly privatize methods prefixed by '_'
+Automaticly privatize methods prefixed by '\_'
 
 <img src="./images/privatized.png" alt="Privatized">
 
 [Tweet](https://twitter.com/fabiospampinato/status/1388187928925442050)
 
 [Example](https://www.typescriptlang.org/play?#code/FAFwngDgpgBACgGwIYEsB2B5ARgKygYxBgF4YAlAgewCcATAHgGcRr0BzAGhiTTAD4A3MFCRYcVgDckIFAC8otGPQAqMKAA8QUNLUbxk6bHkJ8SMAN7AYMANoBpKGBjoYAa0eUAZjGUBdAFwwDk4aWjp6AAYA+gAk5sysaGwAvhEwAPwwaFASUNQwgcr2jr7AyULA+JRozDAQktJysKQqaprauvqomLgEIKYAFDDqhTAAlIHiKFIy8gzKpsSm6hVVNUSelJRm9dON8jADltZRuzOwA2MWyRxWdQCuWAgo+IdXx9YwIAAWKIwAdKcGlo3gIYAB6cEwACSRHwPBgWFg1Cgnjy2nwChgnmolAAts4aihaLAfrAIAY0DBKL1CFwcfiYAAiH5-Jl3aybSiAs7SC5jMGQmAAVTQm2oIHuaCQCCc90Y7GZrMYTOcemymMYjCQ1DAXAAggAxfXQuwc7Fbf4QR7PV6XITWZJlAXCLk84H8wVQ2EwABU8LQAHIQL7EcjUei0JjFAyCZR7iAFSSvt9yZTqbSQMA3dani9QcJC0Xi0A)
+
+### Join
+
+Type safe `ReadonlyArray<string>.join`
+
+<img src="./images/string-array-join.png" alt="String Array Join">
+
+[Tweet](https://twitter.com/ghoullier/status/1390331553394331648)
+
+[Example](https://www.typescriptlang.org/play#code/C4TwDgpgBAUg9gSwHYB4BQUoBkEGdhQQAewESAJrlAEoQCG5cSANiAIIBOHdIK+HyAOYA+ADQYoAZQiRuwOB0IkylKPyFQAvFADkovRPjII5JaQpV1SQVt06Jw2znxmVVANoBdCQH5YiJBMJAC5sPAJic1V3ZAAzCEUACXpyb0w-ZIZXCzVgAWtfKAADABIAbyNA8gBfculZOnkOWrLMmqKQqECANwTO5wjlHI4UplYoGKR4pJTRKAA6RbiEqAAVOgRmNKg-dc3s1VoGMfYuHj48oWFCtoPLS4L0-2NTSLc7HefUPeY5+oTGgo5qUKgETC02tUio5QpUUD8-jIAU1geVKuC6ki5AoISkoddMKEen1CV0IL0OJ1iRwANxoNDIUgcWJ0ADG0COjBYp24vFWd1y+REUDKEgAVgEUPU6NjFG8clZBHNVgALPACzknTi8+HCYQACmAatwoVVeDmuBkMsBHFC0tlAEpYZKzbhEWBrU1rtV6aymC5mOFbO4dEwIHpdMAAO5wCM6I0jcOeKB0Kh+pD4OlodMuCUvWyB-DzPNIfV6HQOtBAA)
