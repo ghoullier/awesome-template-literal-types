@@ -21,6 +21,28 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 - [It's Clash of Code but with TypeScript only](https://www.youtube.com/watch?v=_3vIxQyfi8E) by [William Candillon](https://github.com/wcandillon)
 
+## Examples
+
+- [dot notation string type-safe](#dot-notation-string-type-safe)
+- [document.querySelector](#documentqueryselector)
+- [Router params parsing](#router-params-parsing)
+- [Expression parser](#expression-parser)
+- [JSON Parser](#json-parser)
+- [JSON Serializer](#json-serializer)
+- [GraphQL Typed AST](#graphql-typed-ast)
+- [SQL Database](#sql-database)
+- [CSS Parser](#css-parser)
+- [ELIZA Bot](#eliza-bot)
+- [Typescript Type System Adventure - by Rick Love](#typescript-type-system-adventure---by-rick-love)
+- [Printf/Log](#printflog)
+- [Bitwise Arithmetic](#bitwise-arithmetic)
+- [tRPC](#trpc)
+- [Split](#split)
+- [Privatized](#privatized)
+- [Join](#join)
+- [Extract all paths from object](#extract-all-paths-from-object)
+- [Repeat](#repeat)
+
 ## Use Cases
 
 ### dot notation string type-safe
