@@ -42,6 +42,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [Join](#join)
 - [Extract all paths from object](#extract-all-paths-from-object)
 - [Repeat](#repeat)
+- [Schummar-translate](#schummar-translate)
 
 ## Use Cases
 
@@ -202,3 +203,11 @@ Type safe `ReadonlyArray<string>.join`
 [Tweet](https://twitter.com/ghoullier/status/1408440499283935238)
 
 [Example](https://www.typescriptlang.org/play?#code/C4TwDgpgBAcgrgWwgJwJYGMoF4oHIAMuUAPngIxGm4BMleAzHbgCxMCsTAbEwOxMAcTAJy4AUKEhQAggBswACwCGAIwjAM2PIqbKm6JgBMmEJgDMmAcybymqJgCsmAayYymCJgDsmAeyZgmAEcmZCYAZyZgJjgmADcmAHcmAA8mECYALzEJaFkFRU9EFA0cPKVVdUxSeCQ0dFFxcGgAJQhIRWAAHlEoXqgAYSVkKAhk4AhPAzCoMOA0TwsAGh6+-p84T2ARsYmpqEKEVWRlvqgAKR9UTwgDbfHJ6dn5i00AA1eTvql0TFH7vfwAG0ALqaEGiAB8mm+6EBuBkEwswBsoL+u2maw2WwA-OdLtdbgAuKCtdpdQaKY4DdabRZQV4AEgA3hcrjcAL7MinIdkfKCA-CLAB0IphwIhDRyUAAqtKAJIAEQAasw3szSRAOp0ygUinU6fwIeyALTqtqaro6g7FdB05hG01MjVaq16jB2h1msnauRKa36qD2k1ei0+-L+91QMjUI2vURAA)
+
+### schummar-translate
+
+Extract typed ICU params from translation strings
+
+<img src="https://user-images.githubusercontent.com/2988557/123524539-45a3cd00-d6cb-11eb-9f02-6884b405dc75.gif">
+
+[GitHub](https://github.com/schummar/schummar-translate)
