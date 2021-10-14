@@ -43,6 +43,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [Extract all paths from object](#extract-all-paths-from-object)
 - [Repeat](#repeat)
 - [Schummar-translate](#schummar-translate)
+- [kysely](#kysely)
 
 ## Use Cases
 
@@ -211,3 +212,13 @@ Extract typed ICU params from translation strings
 <img src="https://user-images.githubusercontent.com/2988557/123524539-45a3cd00-d6cb-11eb-9f02-6884b405dc75.gif">
 
 [GitHub](https://github.com/schummar/schummar-translate)
+
+### kysely
+
+A type-safe typescript SQL query builder
+
+<img src="https://github.com/koskimas/kysely/blob/master/assets/demo.gif">
+
+[GitHub](https://github.com/koskimas/kysely)
+
+[WebSite](https://koskimas.github.io/kysely/)
