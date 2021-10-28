@@ -44,6 +44,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [Repeat](#repeat)
 - [Schummar-translate](#schummar-translate)
 - [kysely](#kysely)
+- [react-chicane](#react-chicane)
 
 ## Use Cases
 
@@ -222,3 +223,9 @@ A type-safe typescript SQL query builder
 [GitHub](https://github.com/koskimas/kysely)
 
 [WebSite](https://koskimas.github.io/kysely/)
+
+### react-chicane
+
+A simple and safe router for React and TypeScript, based on template literal types capabilities.
+
+[GitHub](https://github.com/zoontek/react-chicane)
