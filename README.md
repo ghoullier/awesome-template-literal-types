@@ -26,6 +26,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [dot notation string type-safe](#dot-notation-string-type-safe)
 - [document.querySelector](#documentqueryselector)
 - [Router params parsing](#router-params-parsing)
+- [static-path library](#static-path-library)
 - [Expression parser](#expression-parser)
 - [JSON Parser](#json-parser)
 - [JSON Serializer](#json-serializer)
@@ -72,7 +73,13 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [Example](https://www.typescriptlang.org/play#code/C4TwDgpgBAogHsATgQwMbAEoHsCuwIAKyKAtgM4A8AKlBAhAHYAmZUZSAlgwOYB8UAXgBQUNpx616zVlRFQA-FAwRUWREwrtEXbgBox2nrzkAuKDTr5pUAAYASAN5cAZhERQAysGLAAviccXNygiUl8AekCGV3dldl8bOUUHAG0AayguEOJkEigAHyg0iBAsZ1gEFHRsPEIc8go44F4AXTMtHV9Tc0krFlsomM9vRD8Ap2jg0NyEpKhUjKzpkjaDTu6HXwBuISEmFQAbYmhnHAZ0DiwGKAALZGYDiABxCGBG3Hxexn6OowAKOSID4QMw1fC6OR3B5uMx-MD1MhmeBINCYYHLShgiC8ACUgn4ADcsBwmEIcWYiSSdkIoUxHi9gH8AOThMBYdhkcImNnsACSTCZ+jhCLxAn4DjkqgY7HmPOA-N8gig8NIZC2onC4SgoEgmVYv24kquZCwjwAdAcsNw4ez5UwcTtfA7drT6a9mazbZzubb+VzVCQSIw7YKoH8HHL+foA0GGHanfj5kbpaaIBarTa+Uxo1hA8H+c6ndShI9gFAgbUlQAicI4MhuLl1tz8qsu+5057uivgsMOKA4BNipNCJ1AA)
 
-[static-path library](https://github.com/garybernhardt/static-path) (related [video walkthrough](https://www.youtube.com/watch?v=KRMJIiGE0ds))
+### static-path library
+
+[Tweet](https://twitter.com/garybernhardt/status/1466104868498817032)
+
+[static-path repo](https://github.com/garybernhardt/static-path)
+
+[Video walkthrough](https://www.youtube.com/watch?v=KRMJIiGE0ds)
 
 ### Expression parser
 
