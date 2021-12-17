@@ -46,6 +46,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [Schummar-translate](#schummar-translate)
 - [kysely](#kysely)
 - [react-chicane](#react-chicane)
+- [prefix-properties](#prefix-properties)
 
 ## Use Cases
 
@@ -238,3 +239,11 @@ A type-safe typescript SQL query builder
 A simple and safe router for React and TypeScript, based on template literal types capabilities.
 
 [GitHub](https://github.com/zoontek/react-chicane)
+
+### Prefix Properties
+
+<img src="./images/prefix-properties.png" alt="Prefix all keys of a Record">
+
+[Tweet](https://twitter.com/ghoullier/status/1471531186749067264)
+
+[Example](https://www.typescriptlang.org/play#code/C4TwDgpgBAqgdmAThAZgSwB4B4BQUoBqAhgDYCu0EGwEcAJgM5QPCJpwDmANHlAArJ0GKFRr0mLNpxwA+KAF5CpCiOq1GUAAYASAN4DUmAL572KCIigBlMiiFHNUAPzXbQqAC4ocCADcLOKCQUABiaCQ0iADSECAMuPhWAPZkiADGlGriUABKEGlJiHRYkuzcUGRwANZwSQDucDI8+GERAXKKVbFJKNYp6ZliGq2RzlBdID19qRme3n4BQdAGQgJJkIjAaBDxvCuYqkMSrGXN0wOH6kx5BUUlJ5xcFdW1DU17gpgQdDFxl9mlTgKLR6fYYEy6EYWX7xZIzCBPQEcGQOWTA3S8ADaaw2oCg7H4nww3xhAF0vHCBpj4EhDNgcRZQE8wTJSTgjDhAuBlkTvsCwQzNtt4gByWlCAD6IqeuigKEQSQAtl4ACJEGhPYBJVXqhFQABGRAYEC8cDIiv1FiecCIipNzAeHCgRhkOAA9G78AA9JxAA)
