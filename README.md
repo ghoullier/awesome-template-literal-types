@@ -21,6 +21,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 ## Videos
 
 - [It's Clash of Code but with TypeScript only](https://www.youtube.com/watch?v=_3vIxQyfi8E) by [William Candillon](https://github.com/wcandillon)
+- [It's Brainf**k , but types only](https://www.youtube.com/watch?v=DUjRBaJM01E) by [William Candillon](https://github.com/wcandillon)
 
 ## Examples
 
