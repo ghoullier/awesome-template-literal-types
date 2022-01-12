@@ -16,6 +16,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [TypeScript: Template Literal Types](https://michalzalecki.com/typescript-template-literal-types/)
 - [Exploring Template Literal Types in TypeScript 4.1](https://davidtimms.github.io/programming-languages/typescript/2020/11/20/exploring-template-literal-types-in-typescript-4.1.html)
 - [TypeScript Splits the Atom!](https://effectivetypescript.com/2020/11/05/template-literal-types/)
+- [Mastering TypeScript Template Literal Types](https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1)
 
 ## Videos
 
