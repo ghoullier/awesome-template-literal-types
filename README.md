@@ -51,6 +51,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [prefix-properties](#prefix-properties)
 - [typelevel-parser](#typelevel-parser)
 - [type-trident](#type-trident)
+- [hyperscript](#hyperscript)
 
 ## Use Cases
 
@@ -265,3 +266,12 @@ TypeLevel DSL Parser
 A curated list of advanced type level madness
 
 [GitHub](https://github.com/anuraghazra/type-trident)
+
+
+### HyperScript
+
+A simplified implementation of TypeScript's type system written in TypeScript's own type system
+
+[GitHub](https://github.com/ronami/HypeScript)
+
+[Tweet](https://twitter.com/ronenamiel/status/1552375586584133633)
