@@ -52,6 +52,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [typelevel-parser](#typelevel-parser)
 - [type-trident](#type-trident)
 - [hypescript](#hypescript)
+- [anysort](#anysort)
 
 ## Use Cases
 
@@ -277,3 +278,13 @@ A simplified implementation of TypeScript's type system written in TypeScript's 
 [GitHub](https://github.com/ronami/HypeScript)
 
 [Tweet](https://twitter.com/ronenamiel/status/1552375586584133633)
+
+### Anysort
+
+Anysor，Flexible and Full Typed multi-properties sorter for nested objects
+
+<img src="./images/anysort.png" alt="Anysort implemenation example">
+
+[GitHub](https://github.com/Lionad-Morotar/Anysort)
+
+[Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAQwHYE8DO14DMoRHAcmXUwFoYUwBTAEwIFgAoJgYwiTXgFc0qo04AXjgBtJnDgBvOGyQwELGAC4pcFBC4wuAIyoqCAVQDCpABwA2S+YIAaODADuwGDD76AAsQywCcAL7+NuKqsvKKKtLqmjp6hMakAMzmACzmAKy29k4uboSeqN4wvgF+QYwAukys7JxwAG4IADbANADKmLRCiAWYABQ8fGh2AEShCjAAdFFausMAlFWMsrUOuEgA5u2wncJefQP8I2OKEzDAANYwEOfzTEA)
