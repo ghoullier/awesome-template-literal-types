@@ -281,7 +281,7 @@ A simplified implementation of TypeScript's type system written in TypeScript's 
 
 ### Anysort
 
-Anysor，Flexible and Full Typed multi-properties sorter for nested objects
+Anysort，Flexible and Full Typed multi-properties sorter for nested objects
 
 <img src="./images/anysort.png" alt="Anysort implemenation example">
 
