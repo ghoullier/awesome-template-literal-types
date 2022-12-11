@@ -22,6 +22,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 - [It's Clash of Code but with TypeScript only](https://www.youtube.com/watch?v=_3vIxQyfi8E) by [William Candillon](https://github.com/wcandillon)
 - [It's Brainf**k , but types only](https://www.youtube.com/watch?v=DUjRBaJM01E) by [William Candillon](https://github.com/wcandillon)
+- [it's Wordle, but types only](https://www.youtube.com/watch?v=JT30j4nhej4) by [William Candillon](https://github.com/wcandillon)
 
 ## Examples
 
@@ -53,6 +54,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [type-trident](#type-trident)
 - [hypescript](#hypescript)
 - [anysort](#anysort)
+- [wordle](#wordle)
 
 ## Use Cases
 
@@ -288,3 +290,11 @@ Anysort，Flexible and Full Typed multi-properties sorter for nested objects
 [GitHub](https://github.com/Lionad-Morotar/Anysort)
 
 [Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAQwHYE8DO14DMoRHAcmXUwFoYUwBTAEwIFgAoJgYwiTXgFc0qo04AXjgBtJnDgBvOGyQwELGAC4pcFBC4wuAIyoqCAVQDCpABwA2S+YIAaODADuwGDD76AAsQywCcAL7+NuKqsvKKKtLqmjp6hMakAMzmACzmAKy29k4uboSeqN4wvgF+QYwAukys7JxwAG4IADbANADKmLRCiAWYABQ8fGh2AEShCjAAdFFausMAlFWMsrUOuEgA5u2wncJefQP8I2OKEzDAANYwEOfzTEA)
+
+### Wordle
+
+A pure type only implementation of Wordle game
+
+<img src="./images/wordle.png" alt="A pure type only implementation of Wordle game">
+
+[Playground](https://www.typescriptlang.org/play?#code/C4TwDgpgBAKg9gawgOwJYC8ICcA8B1OLAEyggA9gUiBnKa4LVZAcwBpZEVbzLka6GTZgG0AulAC8UMQD5JAKChLlSgsVIUqtAAYASAN5MAZtigAJCAEMiAXwPHTMS6gA2N7YuUB+TyqXCAVTBILABjS2oIHAtrGVYAOkT4JDRMXCdXGVFfKAAuHJVkrnl5UEgoAGE4ZGBnZGocABkIYEosDV5+ekYWdiL6jq0BHpFRdgqAVyxqQkG+WgAGMUlpUTkpAuVJ6cJhAHIXFGZgAAs90R4h-up9w5ZT85yfP2UjSxdInNyoTaUACl+fmarVMl3mHBSN22MywtyOD1E2ReSmeyJUDAmEEB+TRKiqNTqDWBbT6nHq7GEC3YiXi0MIa0BAEoSmVoABxSwAWyibMx1G4mnB3SEYj6WAmpzmXUELFFlSmMKltGFsvEUlkK0BdNhB3hZ3EYP4MHFpzh931Ty1CsIXyUgIBuORvIg-OE2rNx31BsFRpNJzd1p1d095yRjqgqPDyg53Jwzv5YolJwpNO17D2gF4NwCX++cZICVDio8oHUXHfjakwGvGoYGPQixsak3JDbQMVjSy9Ix2XjGeXzqInTinEmmoJnABf7ufz4cL3Z7XL7LoHsD9w9pgfTGcAp-tT7vMtGMn6lcDQADKEFCWBaKz2MBPp8vqDAwD2LJPUDUREOcf7SuGQnWKBexwfoMGwH8lziCEUDA3Bz0vFoZDzY9yhgF1gAAZhWT9vz2AApSwADdLAfRhnz2PMAHpKOUAA9LwgA)
