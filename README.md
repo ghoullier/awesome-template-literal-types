@@ -306,3 +306,13 @@ Cache-control header utility that parses human readable time strings into second
 [GitHub](https://github.com/jjenzz/pretty-cache-header)
 
 [Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAbzgYwIbIBYFMASXUAmWUcAvnAGZQQhwDkYUWMMAngLRqZbvaHF0A3AChhAOywB3OACUsAZ0hj5WABRiArgBstAGkTC4cPkSjyAXAaNGA9DbgqY8lOmwoIYmNS3H8puDAQcABEYBoARlrAyPogqAAe7KgA5lgAvABsAAwALAAcWVn68jCoWjySGMDl7EwAbmXABKgw6QDMAIwArG3ZhcGG1nQAwq48wx5eEFp0llzYePxQqgiD1nBhkdGWXhpYumvWcfEAgqmWdB2SWFgA1nQH60YlZVgA6lXlcg1Rza0XHVY+CgdEOpAAlINSMIIUA)
+
+### nanostores-router
+
+A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) state manager.
+
+<img src="./images/nanostores-router.png" alt="A tiny URL router for Nano Stores state manager.">
+
+[GitHub](https://github.com/nanostores/router)
+
+[Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wChTRJY4BvONIlGJBCAV2ajgF85tcCAAQB2KYRADOMaEgkB6HByRQylaPDpsJSAMrSiPPjjz4RYyftkLiMMqTQRhUuIs5wAvPUbNWSqAAoaUjg4AAtcJAAuAjl8ABpg+iYkAHNoAE9o-DlIKXlItGS0qHSASQATeMTcmCyci3zC5mKy8rlImoqyXhQJekcpAEpyByd4AEEwMA84f0GPAD5aRNHnMBQUpBmtXUt-V2VhxOBMWYBCdc35oJCQohg2KGE4AB5y4AA3BYAWAAZvl5yd5fRK8JAAG20cBOs0uSAAdAcPO5PPhwiAkPhrok7kgHk9XsCFgAJCKAomguAQqEw-xwxHsZjI1FNVIZLHLW4uPGPZ5vT4LADCRQyFWiNHp6ygKBAEnhrJaFW45IFOLgcjkXK12p1OoAegB+SnUra0+lIlGomocm63e68wkC4XNUXlcWSlDS2XwzrlZVA1UhMGQra23H457CNjg8Gg0jcIA)
