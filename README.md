@@ -55,6 +55,9 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [hypescript](#hypescript)
 - [anysort](#anysort)
 - [wordle](#wordle)
+- [pretty-cache-header](#pretty-cache-header)
+- [nanostores-router](#nanostores-router)
+- [dot-path-value](#dot-path-value)
 
 ## Use Cases
 
@@ -316,3 +319,14 @@ A tiny URL router for [Nano Stores](https://github.com/nanostores/nanostores) st
 [GitHub](https://github.com/nanostores/router)
 
 [Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wChTRJY4BvONIlGJBCAV2ajgF85tcCAAQB2KYRADOMaEgkB6HByRQylaPDpsJSAMrSiPPjjz4RYyftkLiMMqTQRhUuIs5wAvPUbNWSqAAoaUjg4AAtcJAAuAjl8ABpg+iYkAHNoAE9o-DlIKXlItGS0qHSASQATeMTcmCyci3zC5mKy8rlImoqyXhQJekcpAEpyByd4AEEwMA84f0GPAD5aRNHnMBQUpBmtXUt-V2VhxOBMWYBCdc35oJCQohg2KGE4AB5y4AA3BYAWAAZvl5yd5fRK8JAAG20cBOs0uSAAdAcPO5PPhwiAkPhrok7kgHk9XsCFgAJCKAomguAQqEw-xwxHsZjI1FNVIZLHLW4uPGPZ5vT4LADCRQyFWiNHp6ygKBAEnhrJaFW45IFOLgcjkXK12p1OoAegB+SnUra0+lIlGomocm63e68wkC4XNUXlcWSlDS2XwzrlZVA1UhMGQra23H457CNjg8Gg0jcIA)
+
+
+### dot-path-value
+
+Safely get deep nested properties using dot notation.
+
+<img src="./images/dot-path-value.png" alt="Safely get deep nested properties using dot notation.">
+
+[GitHub](https://github.com/g-makarov/dot-path-value)
+
+[Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAbzgcwKYwEIE8AKBDGACzgF84AzKCEOAcgBMIYBaMAw5gNzwBsBXVLQDcAKBEBjCADsAzvAgAjAFZwAvIhFw4eAFwatWhXtqFUPHhFoAaTQfp6A2rYP6XB1MYDu0HvWvODEgCAXRstEhsSUREAehjtcXFUGRk4Igg+ZGJFJVRxGBE0TFx2AAocqzo8ADoFWgBKITg4uAyYMD4YVJMzC1o4T2AiNKwwVDgAAzkoYClkCbEWvETk1PTM4jwoKDwsQvRsfCJy5UraGvpqgAZqwUbm+LaOrrpvKF9+weGYUfGpmBmcwWRUOZQqVWqlyuDSaLSenW6SA8rx8flInyGxB+Y0mSL001myFIC1i8V4MggcCwGTg4jwUjgbBS2m2u20qXIwCgchZyD4IFQUgKIJKxwcSF0cAAjKRQnQbngYQ9Wp1nt0pRjvr9JlJ+QpUFASS1sclxDMwPADVRuftikdCCclGcagpquIlS0JuIJoyqGNYFg4IxknApEw4KgAB7AORAA)
