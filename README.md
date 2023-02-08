@@ -58,6 +58,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [pretty-cache-header](#pretty-cache-header)
 - [nanostores-router](#nanostores-router)
 - [dot-path-value](#dot-path-value)
+- [infer-html-events](#infer-html-events)
 
 ## Use Cases
 
@@ -330,3 +331,14 @@ Safely get deep nested properties using dot notation.
 [GitHub](https://github.com/g-makarov/dot-path-value)
 
 [Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAbzgcwKYwEIE8AKBDGACzgF84AzKCEOAcgBMIYBaMAw5gNzwBsBXVLQDcAKBEBjCADsAzvAgAjAFZwAvIhFw4eAFwatWhXtqFUPHhFoAaTQfp6A2rYP6XB1MYDu0HvWvODEgCAXRstEhsSUREAehjtcXFUGRk4Igg+ZGJFJVRxGBE0TFx2AAocqzo8ADoFWgBKITg4uAyYMD4YVJMzC1o4T2AiNKwwVDgAAzkoYClkCbEWvETk1PTM4jwoKDwsQvRsfCJy5UraGvpqgAZqwUbm+LaOrrpvKF9+weGYUfGpmBmcwWRUOZQqVWqlyuDSaLSenW6SA8rx8flInyGxB+Y0mSL001myFIC1i8V4MggcCwGTg4jwUjgbBS2m2u20qXIwCgchZyD4IFQUgKIJKxwcSF0cAAjKRQnQbngYQ9Wp1nt0pRjvr9JlJ+QpUFASS1sclxDMwPADVRuftikdCCclGcagpquIlS0JuIJoyqGNYFg4IxknApEw4KgAB7AORAA)
+
+### infer-html-events
+
+Infer event names out of HTML elements
+
+<img src="./images/infer-html-events.png" alt="Infer event names out of HTML elements.">
+
+[Tweet](https://twitter.com/beraliv/status/1622971034591805441)
+
+[Example](https://www.typescriptlang.org/play?#code/C4TwDgpgBAKgShAVhAxsA9gJygXigCkwgEMBndAOwH4AuKAVwoGsL0B3CgSlwD4oA3dAEsAJgG4AsAChpoSFACi-CBWCkA8gDMAPDHAQ+eJhBDpNUAN7SoNqAG0YAaRNQhFKMdPm98srGcgUBAAHsAqIqRQAAaUACQWbpoQ2DBKKsAAvlFQVLBpqlB0FBDKmAC6RSXJ0hmSMlIolKTAUCgAFujopBD5LXja1rYwABLAALYANgoTEGPpADSDNqnKBSFhFBGKq2pauqOT07PpPNI8+BAzc6p0I+NTVwtBO7e93Dh8VlK2UAD0v64xmBHqpiMAhJQatJpCJUBNiERWk0WvxRBB0HRhjAALIAGQAamj0EdrsA6tJ2p1ur18KjYeh5lAAORMzhiIA)
+
