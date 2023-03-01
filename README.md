@@ -348,7 +348,7 @@ Infer event names out of HTML elements
 
 Higher-Order TypeScript: A lodash-like library for types, with support for type-level lambda functions.
 
-<img src="./images/hotscript.gif" width="360px" alt="How to compose type-level functions to transform a *typed* route path into the corresponding params object.">
+https://user-images.githubusercontent.com/2315749/222081717-96217cd2-ac89-4e06-a942-17fbda717cd2.mp4
 
 [GitHub](https://github.com/gvergnaud/hotscript)
 
