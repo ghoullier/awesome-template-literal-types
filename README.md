@@ -59,6 +59,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [nanostores-router](#nanostores-router)
 - [dot-path-value](#dot-path-value)
 - [infer-html-events](#infer-html-events)
+- [hotscript](#hotscript)
 
 ## Use Cases
 
@@ -342,3 +343,15 @@ Infer event names out of HTML elements
 
 [Example](https://www.typescriptlang.org/play?#code/C4TwDgpgBAKgShAVhAxsA9gJygXigCkwgEMBndAOwH4AuKAVwoGsL0B3CgSlwD4oA3dAEsAJgG4AsAChpoSFACi-CBWCkA8gDMAPDHAQ+eJhBDpNUAN7SoNqAG0YAaRNQhFKMdPm98srGcgUBAAHsAqIqRQAAaUACQWbpoQ2DBKKsAAvlFQVLBpqlB0FBDKmAC6RSXJ0hmSMlIolKTAUCgAFujopBD5LXja1rYwABLAALYANgoTEGPpADSDNqnKBSFhFBGKq2pauqOT07PpPNI8+BAzc6p0I+NTVwtBO7e93Dh8VlK2UAD0v64xmBHqpiMAhJQatJpCJUBNiERWk0WvxRBB0HRhjAALIAGQAamj0EdrsA6tJ2p1ur18KjYeh5lAAORMzhiIA)
 
+
+### hotscript
+
+Higher-Order TypeScript: A lodash-like library for types, with support for type-level lambda functions.
+
+<img src="./images/hotscript.gif" width="360px" alt="How to compose type-level functions to transform a *typed* route path into the corresponding params object.">
+
+[GitHub](https://github.com/gvergnaud/hotscript)
+
+[Tweet](https://twitter.com/GabrielVergnaud/status/1627593386852028417)
+
+[Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAbzgBWGApgGjgFQK5gA26AztgMoxTAB2A5mXAPIBGAVugMYyMDCE4CCXQAZdADMY2ALIBDGJwAW2fjRIxZNeAF844qALgAiRRB6dqYGEYDcAKDswAnhjhRSeQvAC8cAEoQeDDoOBDIslCyICQAPEYA9HjCUCTxMcAAJgBc6tT0AHzxkOqp6TQZ6AAeWTR4ICzoUPlG+Xbx8XCdAHoA-I4u6HBVGNzoGXC+SJlZcLm0dDZwtBXVcLX1jXDabR3dff2uAUEhYRFRsUfB+RMoaOgxl1hwANp2nZ2UeQwAdOREwDAYgByeJA-KYN7vfBEUjfABiwC8jRin3mJF+GlgJAA6gDFMDgflwZDOtDiOi5GAYvxBMIxJIYq93sy4Kj6Oi-OgiLJOPcgcDsECwRCWe82T9OdzeYSgYLhSSWeL0X9CADgVkwQqALpEkVQgjk76hACqNGAEBoes6rA43HRcIMIAAolpqKQrcx2FweN9KQA1WSEPCkGJyBT4pmiuBhpTfXEwfFAub0WVwVTqTSA5N0XUK5kxxRxvHA9YNKCp9MaLQxUuNIna+s6oA)
