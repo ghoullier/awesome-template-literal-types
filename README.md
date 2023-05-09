@@ -22,7 +22,8 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 - [It's Clash of Code but with TypeScript only](https://www.youtube.com/watch?v=_3vIxQyfi8E) by [William Candillon](https://github.com/wcandillon)
 - [It's Brainf**k , but types only](https://www.youtube.com/watch?v=DUjRBaJM01E) by [William Candillon](https://github.com/wcandillon)
-- [it's Wordle, but types only](https://www.youtube.com/watch?v=JT30j4nhej4) by [William Candillon](https://github.com/wcandillon)
+- [It's Wordle, but types only](https://www.youtube.com/watch?v=JT30j4nhej4) by [William Candillon](https://github.com/wcandillon)
+- [All 140 TypeScript Challenges - Video Solutions and Explanations](https://www.youtube.com/watch?v=QFfL2azrshE&list=PLOlZuxYbPik180vcJfsAM6xHYLVxrEgHC) by [Michigan TypeScript](https://twitter.com/MiTypeScript)
 
 ## Examples
 
