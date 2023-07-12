@@ -62,6 +62,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [infer-html-events](#infer-html-events)
 - [hotscript](#hotscript)
 - [brouther](#brouther)
+- [hkt-toolbelt](#hkt-toolbelt)
 
 ## Use Cases
 
@@ -367,3 +368,14 @@ The brother router to help in React apps
 [GitHub](https://github.com/g4rcez/brouther)
 
 [Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDGMA0cDecBiUKA5iEgHbwC+cAZlBCHAERSobMDcAUKJLInYwAIgHkAsnQZNWQgLQATRgHo0AG2AUYXXuGjw8AIQYBXGAAskUbGjYoYScSjBgkChBDNXsJgM5IABRIkOBp6RhYAI1MLKx1uNAhyX3gYqzgAXjhbVAcnFzcPLygAChxuODgGCBgALlw4MHtzeuZlZmwkNSQySnqAHkISXvhlAD5QzAq4Pytferwmi1blWahfAH5ffSQMlKhgcmIAMmAFDPITEEi4zu6RgYBVfygg4hDxyem1hcbmlbWvmU-TOtUu1ysYw6cC6PS0Txebw+Eyo3BoKF82SSKQAlDxuLQTOQMMAknBnnMkSUcbhpolkvAAI4mKwATwAyjADkdMlVPA4oAA6WYARRZUA5XMOxBKaSFGnIAGtfMKXr4cdNlMpKpUAHobbjTNgwExQchwfoKYAANzGazgAHdgBY4KDcMy2ZzucRBWcqP1lFbbWjDYTiTBSeaKa9gtTaZV6Sk-hZMVk5arAs1fLL+VZBQrlRmoBrKlqdXB9YbKsbTebLTa7S9Hc7zK6FAsluYVX6A0GxiGCUSSWSAIIuOPlBPY+BNd682ZUvFGpAms0WkAoQ5jHCzpD+5QbrcDxPwQFFBy89MFnPFfOHQuA7A4KhLss6ysJaczNUAdRbYs9KUeTTXN5XvG8BTvJUVUfBptlgVoMTQaE3QARlCOAMSxBlX21d8DU-BlvysQxWQASQUS9QKgxUILzAsYJeJ823qdD0UxE8NTfPUCOQdARAkQUcnsJAPBqEolDQK4tEFd4YAAUXuLRSIokpWAgGpmBpLCAAkABVxAAGUUuFKBxQU2HIBQrBKaZ+j4jBBS9YAMHECBrP7ct7KEJy-FcZIQloFA1DUSJ0EVDIcHrW1DIgFArSOQUkt7BsqE88sLWMflLCgbDaGAYhIvTel8uINLpgyi0xzAOBxgqnUAyyswcvSyoAwcmBfN8fz-HS9qfOc1z3KQfs8SAA)
+
+
+### hkt-toolbelt
+
+✨Functional and composable type utilities
+
+<img src="./images/hkt-toolbelt.png" alt="hkt-toolbelt code example">
+
+[GitHub](https://github.com/poteat/hkt-toolbelt)
+
+[Example](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAbzgEgDRwDLAM43QYQgDsATYGYYgQwBs4BfOAMyghDgCIALAaxgFoYECDQBGAUxowOAbgBQcmAE8w4uADFgU8VAByAV3YBeFAB4suAHSbtUdMlOFS5SkVqWAogA8Y40tnQiQwkoAD5Q+UUVNQt4EwcbXz1DdABtAHIARnT0TPR0gCYcuAKAXVC5AHpKuFqAPQB+IA)
