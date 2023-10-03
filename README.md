@@ -536,3 +536,5 @@ The brother router to help in React apps
 </p>
 
 Strongly-typed string functions for all!
+
+<img src="./images/string-ts.png" alt="string-ts and zod example">
