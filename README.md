@@ -63,6 +63,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [hotscript](#hotscript)
 - [brouther](#brouther)
 - [hkt-toolbelt](#hkt-toolbelt)
+- [string-ts](#string-ts)
 
 ## Use Cases
 
@@ -522,3 +523,16 @@ The brother router to help in React apps
 ✨ Functional and composable type utilities
 
 <img src="./images/hkt-toolbelt.png" alt="hkt-toolbelt code example">
+
+## string-ts
+
+<p align="left">
+  <a target="_blank" href="https://github.com/gustavoguichard/string-ts">
+    <img src="https://img.shields.io/badge/GitHub-poteat%2Fstring--ts-blue" />
+  </a>
+  <a target="_blank" href="https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAbzlApmANgQwMYrgXzgDMoIQ4ByAZximADsBzAWhiooG4AoL7CemnBpQ4AXkoALFOnQRmAd2joAJp179BqKgFd08cagw4UACmEAaSswqWKlAJTcA9E7hu4APQD8XIA">
+    <img src="https://img.shields.io/badge/Playground-143?logo=typescript&color=3178C6&logoColor=fff" />
+  </a>
+</p>
+
+Strongly-typed string functions for all!
