@@ -64,6 +64,8 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [brouther](#brouther)
 - [hkt-toolbelt](#hkt-toolbelt)
 - [string-ts](#string-ts)
+- [typeskell](#typeskell)
+- [gql.tada](#gql.tada)
 
 ## Use Cases
 
@@ -550,3 +552,15 @@ Strongly-typed string functions for all!
 Experiment to declare typesclasses with programmatic type signatures.
 
 <img src="./images/typeskell.png" alt="typeskell example">
+
+## gql.tada
+
+<p align="left">
+  <a target="_blank" href="https://github.com/0no-co/gql.tada">
+    <img src="https://img.shields.io/badge/GitHub-0no--co%2Fgql.tada-blue" />
+  </a>
+</p>
+
+🪄 Magical GraphQL query engine for TypeScript
+
+<img src="./images/gql.tada.png" alt="gql.tada example">
