@@ -538,3 +538,15 @@ The brother router to help in React apps
 Strongly-typed string functions for all!
 
 <img src="./images/string-ts.png" alt="string-ts and zod example">
+
+## typeskell
+
+<p align="left">
+  <a target="_blank" href="https://github.com/ecyrbe/typeskell">
+    <img src="https://img.shields.io/badge/GitHub-ecyrbe%2Ftypeskell-blue" />
+  </a>
+</p>
+
+Experiment to declare typesclasses with programmatic type signatures.
+
+<img src="./images/typeskell.png" alt="typeskell example">
