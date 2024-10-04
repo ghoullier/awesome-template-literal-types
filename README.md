@@ -46,6 +46,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [Privatized](#privatized)
 - [Join](#join)
 - [Extract all paths from object](#extract-all-paths-from-object)
+- [RE capture groups](#re-capture-groups)
 - [Repeat](#repeat)
 - [Schummar-translate](#schummar-translate)
 - [kysely](#kysely)
@@ -295,6 +296,16 @@ Type safe `ReadonlyArray<string>.join`
 <img src="./images/extract-path-from-object.png" alt="Extract all paths from object">
 
 [Tweet](https://twitter.com/wcandillon/status/1409503819575275531)
+
+### RE capture groups
+
+[![types-re on GitHub](https://img.shields.io/badge/GitHub-edwinm%2Ftyped--re-blue)](https://github.com/edwinm/typed-re) [![typed-re date example](https://img.shields.io/badge/Playground-143?logo=typescript&color=3178C6&logoColor=fff)](https://www.typescriptlang.org/play/?#code/JYWwDg9gTgLgBAbxAQxgYwBYF84DMoQhwBEMAnmAKYAmAtFJcQNwBQLA9J13ACKqVxKAD2TgANgK5c2aCADsAzvGr8ASgIC8JABQB+ADxlKyKAD4AOueoIALFgCUtPfpDyYGC1YQAmB04MqZJ7WvvbMMvJKcCowlACyqJhwWijoGNrE3gAM3ja0AIxZtN4AHMQANNFqlPasEYoQEgB0YhAA5tox8YkYuk1tBACuYApNgbVwnHAA8gDSbFOyDc2tHV0JaX0DEMOjGDtQEwCiqqrTqmyXUlNHKMBigiLiktf1UXdi6skkAHrOgwpKFA5KJKKYANrIWgALwAgrQAFpFACcTQA+gBSADUtAAulj7AABZzUQjIYByCFQuGIlFNPFYyxNSEw+EI3E+coOAAkxDe8A+GySKR6GRQUAA1oThKIwM1ZCAKnAPupam9GpQWu1tIKelshiMmgCgSCQDUmJN2DN5hwrUsFBqtR1dZt+ga9hAlMdTucgA)
+
+Type safe regular expression capturing groups
+
+<img src="./images/typed-re-date-example.png" alt="Type safe capture groups when parsing a date">
+
+[Tweet](https://twitter.com/edwinmdev/status/1842123320960893104)
 
 ### Repeat
 
