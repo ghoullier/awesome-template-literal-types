@@ -12,7 +12,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [Tweet](https://x.com/MiTypeScript/status/1894764784983113780)
 
-[typescript-types-only-wasm-runtime) repo]([https://github.com/garybernhardt/static-path](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime))
+[typescript-types-only-wasm-runtime repo](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime)
 
 [Video walkthrough]([https://www.youtube.com/watch?v=KRMJIiGE0ds](https://www.youtube.com/watch?v=0mCsluv5FXA))
 
