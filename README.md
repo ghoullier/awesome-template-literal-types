@@ -21,7 +21,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 - [Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
 
-## Articles
+## 📰 Articles
 
 - [I need to learn about TypeScript Template Literal Types](https://dev.to/phenomnominal/i-need-to-learn-about-typescript-template-literal-types-51po)
 - [TypeScript: Template Literal Types](https://michalzalecki.com/typescript-template-literal-types/)
