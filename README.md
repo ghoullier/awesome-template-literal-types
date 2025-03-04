@@ -14,7 +14,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 
 [typescript-types-only-wasm-runtime repo](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime)
 
-[Video walkthrough]([https://www.youtube.com/watch?v=KRMJIiGE0ds](https://www.youtube.com/watch?v=0mCsluv5FXA))
+[Video walkthrough](https://www.youtube.com/watch?v=0mCsluv5FXA)
 
 
 ## Handbook
