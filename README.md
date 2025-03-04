@@ -6,7 +6,7 @@
 
 Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-beta/#template-literal-types) examples.
 
-## Pure Madness
+## 🤯 Pure Madness
 
 ### typescript-types-only-wasm-runtime
 
@@ -17,7 +17,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 [Video walkthrough](https://www.youtube.com/watch?v=0mCsluv5FXA)
 
 
-## Handbook
+## 📚 Handbook
 
 - [Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
 
@@ -29,14 +29,14 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [TypeScript Splits the Atom!](https://effectivetypescript.com/2020/11/05/template-literal-types/)
 - [Mastering TypeScript Template Literal Types](https://betterprogramming.pub/mastering-typescript-template-literal-types-f4131a94ffb1)
 
-## Videos
+## 📺 Videos
 
 - [It's Clash of Code but with TypeScript only](https://www.youtube.com/watch?v=_3vIxQyfi8E) by [William Candillon](https://github.com/wcandillon)
 - [It's Brainf**k , but types only](https://www.youtube.com/watch?v=DUjRBaJM01E) by [William Candillon](https://github.com/wcandillon)
 - [It's Wordle, but types only](https://www.youtube.com/watch?v=JT30j4nhej4) by [William Candillon](https://github.com/wcandillon)
 - [All 140 TypeScript Challenges - Video Solutions and Explanations](https://www.youtube.com/watch?v=QFfL2azrshE&list=PLOlZuxYbPik180vcJfsAM6xHYLVxrEgHC) by [Michigan TypeScript](https://twitter.com/MiTypeScript)
 
-## Examples
+## 👀 Examples
 
 - [dot notation string type-safe](#dot-notation-string-type-safe)
 - [document.querySelector](#documentqueryselector)
@@ -78,7 +78,7 @@ Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/
 - [typeskell](#typeskell)
 - [gql.tada](#gql.tada)
 
-## Use Cases
+## 🗂️ Use Cases
 
 ### dot notation string type-safe
 
