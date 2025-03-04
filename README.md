@@ -6,6 +6,17 @@
 
 Curated list of awesome [Template Literal Types](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-beta/#template-literal-types) examples.
 
+## Pure Madness
+
+### typescript-types-only-wasm-runtime
+
+[Tweet](https://x.com/MiTypeScript/status/1894764784983113780)
+
+[typescript-types-only-wasm-runtime) repo]([https://github.com/garybernhardt/static-path](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime))
+
+[Video walkthrough]([https://www.youtube.com/watch?v=KRMJIiGE0ds](https://www.youtube.com/watch?v=0mCsluv5FXA))
+
+
 ## Handbook
 
 - [Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
